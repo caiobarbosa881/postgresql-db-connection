@@ -1,0 +1,19 @@
+{
+  "name": "postgresql-db-connection",
+  "version": "1.0.0",
+  "description": "Conexão ao banco de dados postgresql sgbd utilizando nodejs com o orm sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiobarbosa881/postgresql-db-connection.git"
+  },
+  "author": "Caio Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiobarbosa881/postgresql-db-connection/issues"
+  },
+  "homepage": "https://github.com/caiobarbosa881/postgresql-db-connection#readme"
+}
